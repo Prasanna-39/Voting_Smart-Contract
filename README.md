@@ -17,8 +17,11 @@ Here are the tools we'll use in this tutorial:
 => Web3 JS - enables client side app to talk to blockchain
 -
 => Metamask - enables browser to talk to blockchain
+![Screenshot from 2022-01-15 15-55-13](https://user-images.githubusercontent.com/74823833/149618505-6bc06e30-80cf-4dc0-96cc-e67781599f8a.png)
 -
 => Ganache - local development blockchain
+![Screenshot from 2022-01-15 15-56-26](https://user-images.githubusercontent.com/74823833/149618522-fae39e2b-d0af-43d8-b232-daa4b05a18b3.png)
 -
 =>Remix - smart contract IDE
+-![Screenshot from 2022-01-15 15-56-52](https://user-images.githubusercontent.com/74823833/149618528-960b99c2-f0b1-44ce-bd3b-ed47b9f7662a.png)
 -
