@@ -3,6 +3,7 @@
 
 
 VOTING SMART_CONTRACT 
+
 ---------------------
 Open source smart contract project :
 ==================================
@@ -15,6 +16,8 @@ _______________________________________________________________________________
 Here are the tools we'll use in this tutorial:
 
 => Web3 JS - enables client side app to talk to blockchain
+![Screenshot from 2022-01-15 16-29-20](https://user-images.githubusercontent.com/74823833/149619304-46eff84e-80cd-4dc8-9e33-233eb426e32a.png)
+
 -
 => Metamask - enables browser to talk to blockchain
 ![Screenshot from 2022-01-15 15-55-13](https://user-images.githubusercontent.com/74823833/149618505-6bc06e30-80cf-4dc0-96cc-e67781599f8a.png)
