@@ -1,4 +1,4 @@
-# Voting_Smart-Contract
+# Blockchain Project
 ![output](https://user-images.githubusercontent.com/74823833/149618056-339b99ac-97aa-4573-9f59-d647e8cb5d98.png)
 
 
