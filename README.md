@@ -10,7 +10,6 @@ Open source smart contract project :
 
 Reference : [DAPPUNIVERSITY](https://www.dappuniversity.com/)
 --------------------------------------------------------------
-Hands on project : [Voting project](https://github.com/dappuniversity/20_...)
 _______________________________________________________________________________
 
 Here are the tools we'll use in this tutorial:
